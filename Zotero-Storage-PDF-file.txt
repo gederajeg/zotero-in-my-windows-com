@@ -1,4 +1,5 @@
 Næss_2018_Standing up to the canoe Competing cognitive biases in the encoding of stative spatial relations in.pdf
+Watts et al._Pulotu Database of Austronesian Supernatural Beliefs and Practices.pdf
 Ong and Gordin_2024_A Survey of Body Part Construction Metaphors in the Neo-Assyrian Letter Corpus.pdf
 Van Petegem et al._2021_Evolving as a Digital Scholar.pdf
 Levinson_2000_Yélî Dnye and the Theory of Basic Color Terms.pdf
@@ -10,8 +11,12 @@ Hanks_2022_Lexicography.pdf
 Wolfe-Quintero_The connection between verbs and argument structures Native speaker production of the double object.pdf
 Anderssen et al._2014_The Acquisition of the Dative Alternation in Norwegian.pdf
 Hanks_2022_Lexis.pdf
+Scanlon_Frontiers  Digital Scholarship Identity, Interdisciplinarity, and Openness.pdf
 de Marneffe et al._2012_A statistical model of the grammatical choices in child production of dative sentences.pdf
+Mons_2018_Data Stewardship for Open Science Implementing FAIR Principles.pdf
+Rossetto and Presti_2024_The Routledge Handbook of Cartographic Humanities.pdf
 Westin and Almevik_2022_Bringing a building into being A Virtual Reality Application as a non-traditional research output..pdf
+Noorduyn_1988_Holle, Van Der Tuuk, and Old Sundanese Epigraphy The Cikajang and Kawali Inscriptions.pdf
 Haspelmath_2011_On S, A, P, T, and R as comparative concepts for alignment typology.pdf
 Siemund_2013_Ditransitive constructions.pdf
 Fomin and Toner_2006_Digitizing a Dictionary of Medieval Irish the eDIL Project.pdf
@@ -29,6 +34,7 @@ Baker_2016_1,500 scientists lift the lid on reproducibility.pdf
 Ochsner et al._2016_Research Assessment in the Humanities Towards Criteria and Procedures.pdf
 Norcliffe and Majid - 2024 - Verbs of perception A quantitative typological st.pdf
 McGregor_2013_Optionality in grammar and language use.pdf
+Rosch_1978_Principles of Categorization.pdf
 Moyse‐Faurie_2017_Reflexives Markers in Oceanic Languages.pdf
 Kaufman_2017_Lexical Category and Alignment in Austronesian.pdf
 Nalborczyk et al._2019_An Introduction to Bayesian Multilevel Models Using brms A Case Study of Gender Effects on Vowel Va.pdf
@@ -47,12 +53,14 @@ Regier et al._2013_Inferring semantic maps.pdf
 Danesi_2010_The forms and functions of slang.pdf
 Febrina et al_2024_Indonesian Women in KBBI.pdf
 Georgakopoulos and Polis_2018_The semantic map model State of the art and future avenues for linguistic research.pdf
+Budiani_2025_Productivity and Distribution of Nominal Suffixes -ANCE and -ANCY in the Corpus of Contemporary Amer.pdf
 Theijssen_Variable Selection in Logistic Regression The British English Dative Alternation.pdf
 Kruschke and Liddell_2017_Bayesian data analysis for newcomers.pdf
 Pascale and Zhang_2021_Scoring with Token-based Models.pdf
 Greenberg_ERIC - ED117944 - Numeral Classifiers and Substantival Number Problems in the Genesis of a Linguist.pdf
 Næss_2021_Voice and Valency Morphology in Äiwoo.pdf
 Kwary_2017_Indonesian lexicography in the Internet era.pdf
+Tomasello_2014_The New Psychology of Language Cognitive and Functional Approaches to Language Structure, Volume I.pdf
 Levinson_2000_Yélî Dnye and the Theory of Basic Color Terms.pdf
 Fauconnier_2011_Involuntary agent constructions are not directly linked to reduced transitivity.pdf
 Schmidtke et al._2022_Morphological knowledge in English learner university students is sensitive to language statistics.pdf
@@ -65,6 +73,7 @@ Calude_2017_Testing the boundaries of the middle voice Observations from English
 Maaten and Hinton_Visualizing Data using t-SNE.pdf
 Blust_2014_Some Recent Proposals Concerning the Classification of the Austronesian Languages.pdf
 Levinson_Journal of Linguistic Anthropology  AAA Journal  Wiley Online Library.pdf
+Williams_1981_Argument Structure and Morphology.pdf
 Bojanowski et al._2017_Enriching Word Vectors with Subword Information.pdf
 Reesink_2013_Expressing the GIVE event in Papuan languages A preliminary survey.pdf
 Savitri et al._2024_Applying Chi-Square Test In Measuring The Significance Of The Occurrence Of French Synonym In Corpus.pdf
@@ -73,6 +82,7 @@ Ertescik-Shir_1979_Discourse Constraints on Dative Movement.pdf
 Weller_2018_The Digital Scholar Revisited.pdf
 Greenhill - 2015 - TransNewGuinea.org An Online Database of New Guin.pdf
 Martin_2016_The university library and digital scholarship a review of the literature.pdf
+1983_ON INDONESIAN DATA.pdf
 Nuyen_1992_The Role of Rhetorical Devices in Postmodernist Discourse.pdf
 Warwick et al._2012_Introduction.pdf
 Risman et al._2018_Handbook of the Sociology of Gender.pdf
@@ -84,6 +94,7 @@ Linjun and Yingxin_2024_Typological shift of Mandarin Chinese in terms of motion
 Theijssen_2012_Making choices modelling the English dative alternation.pdf
 List_Productive Signs Towards a Computer-Assisted Analysis of Evolutionary, Typological, and Cognitive D.pdf
 Jenset and and Johansson_2013_Lexical Fillers Influence the Dative Alternation Estimating Constructional Saliency Using Web Docum.pdf
+Tomasello_2014_The New Psychology of Language Cognitive and Functional Approaches to Language Structure, Volume II.pdf
 Suchtelen_2014_Maintained and acquired heritage Spanish in the Netherlands The case of dative constructions.pdf
 Rajeg et al. - 2024 - Enggano-German dictionary turns digital Challenge.pdf
 Jenset and McGillivray_2019_Data from ‘The Dative Alternation Revisited Fresh Insights from Contemporary British Spoken Data’.pdf
@@ -95,5 +106,6 @@ Kim and Shin_2025_The interplay of verbs and argument structure constructions in
 Schütze_1998_Automatic word sense discrimination.pdf
 Hilpert et al._2021_A multivariate approach to English Clippings.pdf
 Kruspe and Majid_2023_The linguistics of odour in Semaq Beri and Semelai, two Austroasiatic languages of the Malay Peninsu.pdf
+McPhillips et al._2015_YesWorkflow A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scr.pdf
 Brezina et al._2018_Corpus Approaches to Contemporary British Speech Sociolinguistic Studies of the Spoken BNC2014.pdf
 Arista and López_2024_Structuring Lexical Data and Digitising Dictionaries.pdf
