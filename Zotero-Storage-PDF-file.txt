@@ -33,10 +33,12 @@ Raff_2013_The San Francisco Declaration on Research Assessment.pdf
 Meyer_2020_Numeral Classifiers in Ojibwe.pdf
 Kwary and Jalaluddin_2015_The lexicography of IndonesianMalay.pdf
 Baker_2016_1,500 scientists lift the lid on reproducibility.pdf
+Barðdal_2007_The semantic and lexical range of the ditransitive construction in the history of (North) Germanic.pdf
 Ochsner et al._2016_Research Assessment in the Humanities Towards Criteria and Procedures.pdf
 Norcliffe and Majid - 2024 - Verbs of perception A quantitative typological st.pdf
 McGregor_2013_Optionality in grammar and language use.pdf
 Rosch_1978_Principles of Categorization.pdf
+Hemmings_2015_Kelabit Voice Philippine-Type, Indonesian-Type or Something a Bit Different.pdf
 Moyse‐Faurie_2017_Reflexives Markers in Oceanic Languages.pdf
 Kaufman_2017_Lexical Category and Alignment in Austronesian.pdf
 Nalborczyk et al._2019_An Introduction to Bayesian Multilevel Models Using brms A Case Study of Gender Effects on Vowel Va.pdf
@@ -47,7 +49,7 @@ Seržant et al._2021_Typology of coding patterns and frequency effects of antipa
 Blust_1989_Austronesian Etymologies IV.pdf
 Senft_1991_Network Models to Describe the Kilivila Classifier System.pdf
 Udayana et al._2025_The (non)canonical status of the ka- passive in Balinese.pdf
-2004_Shouldnt it be breakfunch A quantitative analysis of blend structure in English.pdf
+Gries_2004_Shouldnt it be breakfunch A quantitative analysis of blend structure in English.pdf
 Kendall et al._2011_The dative alternation in African American English Researching syntactic variation and change acros.pdf
 Koemba et al._2025_Language Shifts in Folkative Instagram Comments.pdf
 Mazurkewich_1984_The Acquisition of the Dative Alternation by Second Language Learners and Linguistic Theory.pdf
@@ -62,6 +64,7 @@ Pascale and Zhang_2021_Scoring with Token-based Models.pdf
 Greenberg_ERIC - ED117944 - Numeral Classifiers and Substantival Number Problems in the Genesis of a Linguist.pdf
 Næss_2021_Voice and Valency Morphology in Äiwoo.pdf
 Kwary_2017_Indonesian lexicography in the Internet era.pdf
+Haspelmath et al._2001_Language Typology and Language Universals.pdf
 Tomasello_2014_The New Psychology of Language Cognitive and Functional Approaches to Language Structure, Volume I.pdf
 Levinson_2000_Yélî Dnye and the Theory of Basic Color Terms.pdf
 Fauconnier_2011_Involuntary agent constructions are not directly linked to reduced transitivity.pdf
@@ -71,6 +74,7 @@ Martínez-Mesa et al._2016_Sampling how to select participants in my research st
 C. E. Engels and Kulczycki_2022_Introduction Research assessment in the social sciences.pdf
 Mattiola_2019_Typology of Pluractional Constructions in the Languages of the World.pdf
 Haspelmath_2004_Explaining the Ditransitive Person-Role Constraint A usage-based approach.pdf
+Casad_1993_“Locations”, “paths” and the Cora verb.pdf
 Calude_2017_Testing the boundaries of the middle voice Observations from English and Romanian.pdf
 Maaten and Hinton_Visualizing Data using t-SNE.pdf
 Blust_2014_Some Recent Proposals Concerning the Classification of the Austronesian Languages.pdf
@@ -97,6 +101,7 @@ Theijssen_2012_Making choices modelling the English dative alternation.pdf
 List_Productive Signs Towards a Computer-Assisted Analysis of Evolutionary, Typological, and Cognitive D.pdf
 Jenset and and Johansson_2013_Lexical Fillers Influence the Dative Alternation Estimating Constructional Saliency Using Web Docum.pdf
 Tomasello_2014_The New Psychology of Language Cognitive and Functional Approaches to Language Structure, Volume II.pdf
+Ohara_2018_Relations between frames and constructions A proposal from the Japanese FrameNet constructicon.pdf
 Suchtelen_2014_Maintained and acquired heritage Spanish in the Netherlands The case of dative constructions.pdf
 Rajeg et al. - 2024 - Enggano-German dictionary turns digital Challenge.pdf
 Jenset and McGillivray_2019_Data from ‘The Dative Alternation Revisited Fresh Insights from Contemporary British Spoken Data’.pdf
@@ -111,3 +116,4 @@ Kruspe and Majid_2023_The linguistics of odour in Semaq Beri and Semelai, two Au
 McPhillips et al._2015_YesWorkflow A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scr.pdf
 Brezina et al._2018_Corpus Approaches to Contemporary British Speech Sociolinguistic Studies of the Spoken BNC2014.pdf
 Arista and López_2024_Structuring Lexical Data and Digitising Dictionaries.pdf
+Casad and Langacker_1985_'Inside' and 'Outside' in Cora Grammar.pdf
