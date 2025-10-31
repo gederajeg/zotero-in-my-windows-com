@@ -1,0 +1,1 @@
+find /c/Users/GRajeg/Zotero -type f -name "*.pdf"
