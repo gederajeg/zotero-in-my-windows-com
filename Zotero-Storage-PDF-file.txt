@@ -16,6 +16,7 @@ Hanks_2022_Lexis.pdf
 Scanlon_Frontiers  Digital Scholarship Identity, Interdisciplinarity, and Openness.pdf
 de Marneffe et al._2012_A statistical model of the grammatical choices in child production of dative sentences.pdf
 Mons_2018_Data Stewardship for Open Science Implementing FAIR Principles.pdf
+Keenan and Dryer_2007_Passive in the world's languages.pdf
 Rossetto and Presti_2024_The Routledge Handbook of Cartographic Humanities.pdf
 Westin and Almevik_2022_Bringing a building into being A Virtual Reality Application as a non-traditional research output..pdf
 Noorduyn_1988_Holle, Van Der Tuuk, and Old Sundanese Epigraphy The Cikajang and Kawali Inscriptions.pdf
@@ -28,6 +29,7 @@ Cooperrider_Time Tools.pdf
 Primus_2010_The relative order of recipient and patient in the languages of Europe ..pdf
 Michel et al._2011_Quantitative Analysis of Culture Using Millions of Digitized Books.pdf
 Curry et al._The changing role of funders in responsible research assessment progress, obstacles and the way ahe.pdf
+Bárány_2024_Case and agreement alignment in ditransitive constructions A typological gap and its explanation.pdf
 Kimoto et al._2024_Syntactic embedding or parataxis  Corpus-based typology of complementation in language use.pdf
 Raff_2013_The San Francisco Declaration on Research Assessment.pdf
 Meyer_2020_Numeral Classifiers in Ojibwe.pdf
@@ -40,6 +42,7 @@ McGregor_2013_Optionality in grammar and language use.pdf
 Rosch_1978_Principles of Categorization.pdf
 Hemmings_2015_Kelabit Voice Philippine-Type, Indonesian-Type or Something a Bit Different.pdf
 Moyse‐Faurie_2017_Reflexives Markers in Oceanic Languages.pdf
+Matthews_2006_Morphology.pdf
 Kaufman_2017_Lexical Category and Alignment in Austronesian.pdf
 Nalborczyk et al._2019_An Introduction to Bayesian Multilevel Models Using brms A Case Study of Gender Effects on Vowel Va.pdf
 Sprengnether_2016_Literature and psychoanalysis.pdf
@@ -58,6 +61,7 @@ Danesi_2010_The forms and functions of slang.pdf
 Febrina et al_2024_Indonesian Women in KBBI.pdf
 Georgakopoulos and Polis_2018_The semantic map model State of the art and future avenues for linguistic research.pdf
 Budiani_2025_Productivity and Distribution of Nominal Suffixes -ANCE and -ANCY in the Corpus of Contemporary Amer.pdf
+Kiyomi_1995_A new approach to reduplication a semantic study of noun and verb reduplication in the Malayo-Polyn.pdf
 Theijssen_Variable Selection in Logistic Regression The British English Dative Alternation.pdf
 Kruschke and Liddell_2017_Bayesian data analysis for newcomers.pdf
 Pascale and Zhang_2021_Scoring with Token-based Models.pdf
@@ -73,7 +77,7 @@ Voorhoeve_Languages of Irian Jaya Checklist. Preliminary classification, languag
 Martínez-Mesa et al._2016_Sampling how to select participants in my research study.pdf
 C. E. Engels and Kulczycki_2022_Introduction Research assessment in the social sciences.pdf
 Mattiola_2019_Typology of Pluractional Constructions in the Languages of the World.pdf
-Haspelmath_2004_Explaining the Ditransitive Person-Role Constraint A usage-based approach.pdf
+Dryer_2007_Clause types.pdf
 Casad_1993_“Locations”, “paths” and the Cora verb.pdf
 Calude_2017_Testing the boundaries of the middle voice Observations from English and Romanian.pdf
 Maaten and Hinton_Visualizing Data using t-SNE.pdf
@@ -106,6 +110,7 @@ Suchtelen_2014_Maintained and acquired heritage Spanish in the Netherlands The c
 Rajeg et al. - 2024 - Enggano-German dictionary turns digital Challenge.pdf
 Jenset and McGillivray_2019_Data from ‘The Dative Alternation Revisited Fresh Insights from Contemporary British Spoken Data’.pdf
 Blust_1980_Austronesian Etymologies.pdf
+Schnell and Schiborr_2022_Crosslinguistic Corpus Studies in Linguistic Typology.pdf
 Hilpert et al._Meaning differences between English clippings and their source words A corpus-based study.pdf
 Næss,_2012_Cutting and breaking in Äiwoo Event integration and the complexity of lexical expressions.pdf
 Blust_1983_Austronesian Etymologies II.pdf
