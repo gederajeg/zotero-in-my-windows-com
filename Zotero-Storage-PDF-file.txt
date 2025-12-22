@@ -2,10 +2,12 @@ Garvin_1970_Method and Theory in Linguistics.pdf
 Næss_2018_Standing up to the canoe Competing cognitive biases in the encoding of stative spatial relations in.pdf
 Marantz_1982_Re Reduplication.pdf
 Poser_1983_REPLY TO VERHAAR.pdf
+Carroll et al._Frontiers  Extending the CARE Principles from tribal research policies to benefit sharing in genomi.pdf
 Watts et al._Pulotu Database of Austronesian Supernatural Beliefs and Practices.pdf
 Ong and Gordin_2024_A Survey of Body Part Construction Metaphors in the Neo-Assyrian Letter Corpus.pdf
 Van Petegem et al._2021_Evolving as a Digital Scholar.pdf
 Levinson_2000_Yélî Dnye and the Theory of Basic Color Terms.pdf
+Baayen and Neijt_1997_Productivity in context a case study of a Dutch suffix.pdf
 Coon et al._2017_Introduction.pdf
 Corver et al._2019_Introduction The compositionality and syntactic flexibility of verbal idioms.pdf
 Hurrell_2023_Research Assessment Reform, Non-Traditional Research Outputs, and Digital Repositories An Analysis.pdf
@@ -19,94 +21,153 @@ Scanlon_Frontiers  Digital Scholarship Identity, Interdisciplinarity, and Openne
 Mertz_2023_Regular expression puzzles and AI coding assistants 24 puzzles solved by the author, with and witho.pdf
 de Marneffe et al._2012_A statistical model of the grammatical choices in child production of dative sentences.pdf
 Mons_2018_Data Stewardship for Open Science Implementing FAIR Principles.pdf
+Rosemeyer_2016_Modeling frequency effects in language change.pdf
 Keenan and Dryer_2007_Passive in the world's languages.pdf
 Rossetto and Presti_2024_The Routledge Handbook of Cartographic Humanities.pdf
 Westin and Almevik_2022_Bringing a building into being A Virtual Reality Application as a non-traditional research output..pdf
 Noorduyn_1988_Holle, Van Der Tuuk, and Old Sundanese Epigraphy The Cikajang and Kawali Inscriptions.pdf
 Haspelmath_2011_On S, A, P, T, and R as comparative concepts for alignment typology.pdf
+Ruette et al._2016_Frequency effects in lexical sociolectometry are insubstantial.pdf
+Indrawati et al._2024_Language attitude of Pedawa`s adolescents towards their native language A sociolinguistics perspect.pdf
 Levinson_1996_Language and Space.pdf
+Ennever_2024_Topics in a spatial grammar of Kukatja.pdf
 Brown and Levinson_1993_Uphill and Downhill in Tzeltal.pdf
+Artemis Alexiadou_2012_Noncanonical passives revisited Parameters of nonactive Voice.pdf
+Barth et al._The Social Cognition Parallax Interview Corpus (SCOPIC) Project Guidelines.pdf
+Rahmi_2025_Change in and continuity of traditional village architecture the Bali Aga village of Tenganan Pegri.pdf
+Plag et al._Morphological productivity across speech and writing  English Language &amp; Linguistics.pdf
 Siemund_2013_Ditransitive constructions.pdf
 Fomin and Toner_2006_Digitizing a Dictionary of Medieval Irish the eDIL Project.pdf
 Loprieno et al._2016_The ‘Mesurer les Performances de la Recherche’ Project of the Rectors’ Conference of the Swiss Unive.pdf
 Kootstra and Şahin_2018_Crosslinguistic Structural Priming as a Mechanism of Contact-Induced Language Change Evidence from.pdf
 Cooperrider_Time Tools.pdf
+Nikolaeva_2020_Constructional analogy and reanalysis in possessive applicatives.pdf
+Hauser-Schäublin_2025_Under the Spell of the Batur Volcano The Colonization of Highland Bali by Lowland Courts.pdf
 Primus_2010_The relative order of recipient and patient in the languages of Europe ..pdf
 Bohnemeyer et al._2015_The Contact Diffusion of Linguistic Practices.pdf
 Michel et al._2011_Quantitative Analysis of Culture Using Millions of Digitized Books.pdf
 Curry et al._The changing role of funders in responsible research assessment progress, obstacles and the way ahe.pdf
+Sari and Putra_2024_Narrative on Nature Conservation A Comparative Study of the Folktales of Bali Aga and Ainu.pdf
 Bárány_2024_Case and agreement alignment in ditransitive constructions A typological gap and its explanation.pdf
 Kimoto et al._2024_Syntactic embedding or parataxis  Corpus-based typology of complementation in language use.pdf
 Raff_2013_The San Francisco Declaration on Research Assessment.pdf
 Meyer_2020_Numeral Classifiers in Ojibwe.pdf
 Kwary and Jalaluddin_2015_The lexicography of IndonesianMalay.pdf
 Baker_2016_1,500 scientists lift the lid on reproducibility.pdf
+Arka_2005_Speech levels, social predicates and pragmatic structure in Balinese A lexical approach.pdf
 Barðdal_2007_The semantic and lexical range of the ditransitive construction in the history of (North) Germanic.pdf
+Pratiwi et al._2020_SOCIO-CULTURAL DYNAMICS AND ETHNOLINGUISTIC VITALITY OF SEMBIRAN BALINESE.pdf
 Kay and Kempton_1984_What Is the Sapir-Whorf Hypothesis.pdf
 Ochsner et al._2016_Research Assessment in the Humanities Towards Criteria and Procedures.pdf
 Norcliffe and Majid - 2024 - Verbs of perception A quantitative typological st.pdf
+Galiotou et al._2018_Preservation and Management of Greek Dialectal Data.pdf
+Baayen_1994_Derivational productivity and text typology.pdf
 Hill and Mannheim_1992_Language and World View.pdf
 McGregor_2013_Optionality in grammar and language use.pdf
+Agusintadewi_2017_Pola Spasial Permukiman Tradisional Bali Aga di Desa Sekardadi, Kintamani  RUAS.pdf
+Reed_2011_Get-passives.pdf
 Rosch_1978_Principles of Categorization.pdf
 Hemmings_2015_Kelabit Voice Philippine-Type, Indonesian-Type or Something a Bit Different.pdf
 Moyse‐Faurie_2017_Reflexives Markers in Oceanic Languages.pdf
 Matthews_2006_Morphology.pdf
 Palmer et al._2022_Frames of spatial reference in five Australian languages.pdf
 Kaufman_2017_Lexical Category and Alignment in Austronesian.pdf
+SIEWIERSKA_2024_The Passive A Comparative Linguistic Analysis.pdf
+Ellis_2016_Frequency in language learning and language change.pdf
 Nalborczyk et al._2019_An Introduction to Bayesian Multilevel Models Using brms A Case Study of Gender Effects on Vowel Va.pdf
 Sprengnether_2016_Literature and psychoanalysis.pdf
 Rajeg et al._The data science behind the curation of the Holle List A case study from the Enggano Holle List and.pdf
+Rothstein_2016_Aspect.pdf
+Santhyasa et al._The Geometric Construction of Traditional Settlement Space in the Ancient Village of Tenganan Dauh T.pdf
 Berez-Kroeker et al._2022_The Open Handbook of Linguistic Data Management.pdf
+Skrzypek_2024_Variation and change in the Swedish periphrastic passive a constructional approach.pdf
+Frith and Frith_Social Cognition in Humans.pdf
+Space Linguistic Expression.pdf
 Seržant et al._2021_Typology of coding patterns and frequency effects of antipassives.pdf
 Koerner_1992_The Sapir-Whorf Hypothesis A Preliminary History and a Bibliographical Essay.pdf
 Blust_1989_Austronesian Etymologies IV.pdf
+Widiastuti -_2018_Ketahanan Budaya Masyarakat Bali Aga dalam Menciptakan Desa Wisata yang Berkelanjutan.pdf
 Senft_1991_Network Models to Describe the Kilivila Classifier System.pdf
 Udayana et al._2025_The (non)canonical status of the ka- passive in Balinese.pdf
+Delancey_1997_Mirativity The grammatical marking of unexpected information.pdf
 Gries_2004_Shouldnt it be breakfunch A quantitative analysis of blend structure in English.pdf
 Huang_2016_Time as space Metaphor in Isbukun Bunun A Semantic Analysis.pdf
 Kendall et al._2011_The dative alternation in African American English Researching syntactic variation and change acros.pdf
 Wivell et al._2024_All about ablaut a typology of ablaut reduplicative structures.pdf
 Koemba et al._2025_Language Shifts in Folkative Instagram Comments.pdf
+Gaby and Shoulson_2023_Pronouns.pdf
 Mazurkewich_1984_The Acquisition of the Dative Alternation by Second Language Learners and Linguistic Theory.pdf
+Legate_2021_Noncanonical Passives A Typology of Voices in an Impoverished Universal Grammar.pdf
 Regier et al._2013_Inferring semantic maps.pdf
 Danesi_2010_The forms and functions of slang.pdf
 Febrina et al_2024_Indonesian Women in KBBI.pdf
 Georgakopoulos and Polis_2018_The semantic map model State of the art and future avenues for linguistic research.pdf
+Dhanawaty_Kuatnya Jejak Ke-Austronesia-an pada Bahasa Bali Dialek Bali Aga  Jurnal Kajian Bali (Journal of Ba.pdf
+Adelaar and Himmelmann_2004_Nias Lea Brown.pdf
 Budiani_2025_Productivity and Distribution of Nominal Suffixes -ANCE and -ANCY in the Corpus of Contemporary Amer.pdf
 Kiyomi_1995_A new approach to reduplication a semantic study of noun and verb reduplication in the Malayo-Polyn.pdf
 Gumperz and Levinson_1991_Rethinking Linguistic Relativity.pdf
+Shapero_2017_Does Environmental Experience Shape Spatial Cognition Frames of Reference Among Ancash Quechua Spea.pdf
 Theijssen_Variable Selection in Logistic Regression The British English Dative Alternation.pdf
 Kruschke and Liddell_2017_Bayesian data analysis for newcomers.pdf
 Pascale and Zhang_2021_Scoring with Token-based Models.pdf
 Greenberg_ERIC - ED117944 - Numeral Classifiers and Substantival Number Problems in the Genesis of a Linguist.pdf
 Næss_2021_Voice and Valency Morphology in Äiwoo.pdf
 Kwary_2017_Indonesian lexicography in the Internet era.pdf
+Levine and Smith_2013_Group Cognition Collective Information Search and Distribution.pdf
 Fox J._2006_The Poetic Power of Place  Comparative Perspectives on Austronesian Ideas of Locality.pdf
+Udayana et al._2024_Canonical Versus Non-Canonical Passives in Indonesian.pdf
 Haspelmath et al._2001_Language Typology and Language Universals.pdf
 Tomasello_2014_The New Psychology of Language Cognitive and Functional Approaches to Language Structure, Volume I.pdf
 Levinson_2000_Yélî Dnye and the Theory of Basic Color Terms.pdf
 Everett_2023_Turn to Your West.pdf
 Fauconnier_2011_Involuntary agent constructions are not directly linked to reduced transitivity.pdf
 Schmidtke et al._2022_Morphological knowledge in English learner university students is sensitive to language statistics.pdf
+Douglas_1992_The multi-dimensional approach to linguistic analyses of genre variation An overview of methodology.pdf
 Voorhoeve_Languages of Irian Jaya Checklist. Preliminary classification, language maps, wordlists.pdf
 Everett_2023_Your Future Is behind You.pdf
 Martínez-Mesa et al._2016_Sampling how to select participants in my research study.pdf
+Cruz_2017_Documenting Landscape Knowledge in Eastern Chatino Narratives of Fieldwork in San Juan Quiahije.pdf
+Olko and Sallabank_2021_Welcome!.pdf
+Yasa et al._2024_Social Capital-Based Historical Tourism Development Model in Bali Aga Areas Sidetapa, Cempaga, Tiga.pdf
 C. E. Engels and Kulczycki_2022_Introduction Research assessment in the social sciences.pdf
 Mattiola_2019_Typology of Pluractional Constructions in the Languages of the World.pdf
+Palmer_Measuring productivity diachronically nominal suffixes in English letters, 1400–16001  English Lan.pdf
 Dryer_2007_Clause types.pdf
+Shapero_Speaking Places Language, Mind, and Environment in the Ancash Highlands (Peru).pdf
 Levinson_1998_Studying Spatial Conceptualization across Cultures Anthropology and Cognitive Science.pdf
+Evans_Social Cognition in Dalabon.pdf
 Casad_1993_“Locations”, “paths” and the Cora verb.pdf
+Kusumaningrum et al._2024_The Use of Bali Aga Dialect in the Work Domain.pdf
 Calude_2017_Testing the boundaries of the middle voice Observations from English and Romanian.pdf
 Maaten and Hinton_Visualizing Data using t-SNE.pdf
 Blust_2014_Some Recent Proposals Concerning the Classification of the Austronesian Languages.pdf
+Tryon_2011_24. Balinese Adrian Clynes.pdf
 Levinson_Journal of Linguistic Anthropology  AAA Journal  Wiley Online Library.pdf
 Williams_1981_Argument Structure and Morphology.pdf
 Bojanowski et al._2017_Enriching Word Vectors with Subword Information.pdf
+Abubakari et al._2024_Kusaal Folktales Communicative Tools for Preserving Indigenous Cultural Values in Ghanaian Marriage.pdf
+Abubakari_2025_Folktales for Environmental Conservation From Oral Traditions to Ecological Wisdom.pdf
 Reesink_2013_Expressing the GIVE event in Papuan languages A preliminary survey.pdf
+Reuter_2021_The House of Our Ancestors.pdf
+Dyah Maharani_2021_Keragaman Wujud Bangunan Tinggal Desa-desa Bali Aga dari Zaman Bali Kuno.pdf
+Yudantini_2022_BALI AGA VILLAGES DOCUMENTATION IN BANGLI REGENCY AS ARCHITECTURAL CONSERVATION AND CULTURAL HERITAG.pdf
 Savitri et al._2024_Applying Chi-Square Test In Measuring The Significance Of The Occurrence Of French Synonym In Corpus.pdf
+Zustiyantoro et al._2025_Revitalising an endangered language through grassroots traditional arts communities the case of Jav.pdf
+Alsina_1993_Predicate composition A theory of syntactic function alternations. (Volumes I and II).pdf
+Alexiadou and Schäfer_2020_The Voice Domain in Germanic.pdf
+San Roque et al._Getting the Story Straight Language Fieldwork Using a Narrative Problem-Solving Task.pdf
+Udayana University, Denpasar, Indonesia et al._2024_Language Maintenance Bali Aga Dialect of Tigawasa Village in Education Domain.pdf
+Turin et al._2013_Oral Literature in the Digital Age Archiving Orality and Connecting with Communities.pdf
 Darmasetiyawan and Ambridge_2022_Syntactic Representations Contain Semantic Information Evidence From Balinese Passives.pdf
+Levinson et al._2002_Returning the tables language affects spatial reasoning.pdf
 Ertescik-Shir_1979_Discourse Constraints on Dative Movement.pdf
+Kimoto et al._Syntactic embedding or parataxis Corpus-based typology of complementation in language use.pdf
 Weller_2018_The Digital Scholar Revisited.pdf
+Cole and Hermon_2005_Subject And Non-subject Relativization in Indonesian.pdf
+Oez_A Guide to the Documentation of the Beth Qustan Dialect of the Central Neo-Aramaic Language Turoyo.pdf
+Terrill and Burenhult_2008_Orientation as a strategy of spatial reference.pdf
+Grenoble_2021_Why Revitalize.pdf
 Greenhill - 2015 - TransNewGuinea.org An Online Database of New Guin.pdf
 Martin_2016_The university library and digital scholarship a review of the literature.pdf
 1983_ON INDONESIAN DATA.pdf
@@ -118,25 +179,35 @@ Jackson_2013_Lexicography An Introduction.pdf
 Janic_2016_Synchronic and diachronic aspects of valency-reducing devices in Oceanic languages.pdf
 Polinsky_1996_A non-syntactic account of some asymmetries in the double object construction.pdf
 Linjun and Yingxin_2024_Typological shift of Mandarin Chinese in terms of motion verb lexicalization pattern.pdf
+Kashima and Lan_2013_Communication and Language Use in Social Cognition.pdf
 Theijssen_2012_Making choices modelling the English dative alternation.pdf
 List_Productive Signs Towards a Computer-Assisted Analysis of Evolutionary, Typological, and Cognitive D.pdf
 Levinson_1997_Language and Cognition The Cognitive Consequences of Spatial Description in Guugu Yimithirr.pdf
 Jenset and and Johansson_2013_Lexical Fillers Influence the Dative Alternation Estimating Constructional Saliency Using Web Docum.pdf
+Taheri-Ardali et al._The Bavadi and Their Bakhtiari Dialect  Iranian Studies.pdf
 Tomasello_2014_The New Psychology of Language Cognitive and Functional Approaches to Language Structure, Volume II.pdf
 Ohara_2018_Relations between frames and constructions A proposal from the Japanese FrameNet constructicon.pdf
 Suchtelen_2014_Maintained and acquired heritage Spanish in the Netherlands The case of dative constructions.pdf
+Bejar et al._2024_Recording regional dialects in labrador inuttitut (research note).pdf
 Rajeg et al. - 2024 - Enggano-German dictionary turns digital Challenge.pdf
 Jenset and McGillivray_2019_Data from ‘The Dative Alternation Revisited Fresh Insights from Contemporary British Spoken Data’.pdf
 Blust_1980_Austronesian Etymologies.pdf
 Schnell and Schiborr_2022_Crosslinguistic Corpus Studies in Linguistic Typology.pdf
+Semin et al._2013_Interfacing Body, Mind, the Physical, and the Social World Socially Situated Cognition.pdf
 Hilpert et al._Meaning differences between English clippings and their source words A corpus-based study.pdf
 Næss,_2012_Cutting and breaking in Äiwoo Event integration and the complexity of lexical expressions.pdf
+Truong_2025_Western Austronesian Applicative Constructions Continuity and Change in Form and Meaning.pdf
 Blust_1983_Austronesian Etymologies II.pdf
+Yacopetti and Ponsonnet_2024_A semantic typology of emotion nouns in Australian Indigenous languages.pdf
 Kim and Shin_2025_The interplay of verbs and argument structure constructions in second language processing roles of.pdf
 Schütze_1998_Automatic word sense discrimination.pdf
 Hilpert et al._2021_A multivariate approach to English Clippings.pdf
 Kruspe and Majid_2023_The linguistics of odour in Semaq Beri and Semelai, two Austroasiatic languages of the Malay Peninsu.pdf
+Wit and Brisard_Aspect beyond time Introduction  Journal of Linguistics.pdf
 McPhillips et al._2015_YesWorkflow A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scr.pdf
+Siwalatri et al._2015_Spatial Concepts of Bali Indigenous Architecture.pdf
+Myhill_1988_Nominal Agent Incorporation in Indonesian.pdf
 Brezina et al._2018_Corpus Approaches to Contemporary British Speech Sociolinguistic Studies of the Spoken BNC2014.pdf
 Arista and López_2024_Structuring Lexical Data and Digitising Dictionaries.pdf
 Casad and Langacker_1985_'Inside' and 'Outside' in Cora Grammar.pdf
+Abbot-Smith and Behrens_2006_How Known Constructions Influence the Acquisition of Other Constructions The German Passive and Fut.pdf
