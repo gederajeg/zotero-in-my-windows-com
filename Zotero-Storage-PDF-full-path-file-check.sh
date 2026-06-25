@@ -1,13 +1,18 @@
+# STEP 4
+## get the full file path of the PDF in the zotero storage and save it into "Zotero-Storage-PDF-path.txt"
 find /c/Users/GRajeg/Zotero -type f -name "*.pdf" > /c/Users/GRajeg/OneDrive\ -\ Nexus365/Documents/zotero-in-my-windows-com/Zotero-Storage-PDF-path.txt
 
-wc -l Zotero-Storage-PDF-path.txt # count the number of lines in a text file
+## count the number of lines in a text file
+wc -l Zotero-Storage-PDF-path.txt 
 
-# copying PDF from Zotero storage
+# STEP 5
+## copying PDF from Zotero storage to the Flash Drive
 xargs -a Zotero-Storage-PDF-path.txt -d '\n' cp -t /d/zotero-pdf
 
 ls /d/zotero-pdf -1 | wc -l
 
-# get the list of file in flash drive and save to computer
+# STEP 6
+## get the list of file in flash drive and save that list to computer
 ls /d/zotero-pdf -R | grep "\.pdf$" > /c/Users/GRajeg/OneDrive\ -\ Nexus365/Documents/zotero-in-my-windows-com/zotero-pdf-in-flash-drive.txt
 
 # compare files in the flash drive vs. in the computer

@@ -30,6 +30,7 @@ Lee_1974_Southeast Asian Areal Features in Austronesian Strata of the Chamic Lan
 Pou and Jenner_1974_Proto-Indonesian and Mon-Khmer.pdf
 Carlisle_2000_Awareness of the structure and meaning of morphologically complex words Impact on reading.pdf
 Hanks_2022_Lexicography.pdf
+Warren_2012_Planning utterances.pdf
 Wolfe-Quintero_The connection between verbs and argument structures Native speaker production of the double object.pdf
 Holton_2018_Interdisciplinary Language Documentation.pdf
 Maffi_2018_Sustaining Biocultural Diversity.pdf
@@ -121,6 +122,7 @@ Arka_2005_Speech levels, social predicates and pragmatic structure in Balinese A
 Thieberger_2009_Anxious Respect for Linguistic Data The Pacific and Regional Archive for Digital Sources in Endange.pdf
 Barðdal_2007_The semantic and lexical range of the ditransitive construction in the history of (North) Germanic.pdf
 Enfield_2001_Remarks on John Haiman, 1999. ‘Auxiliation in Khmer the case of baan.’ Studies in Language 231. 14.pdf
+Prasithrathsint_2004_The adversative passive markers as a prominent areal feature of Southeast Asian languages.pdf
 King_2018_Language Recovery Paradigms.pdf
 Pratiwi et al._2020_SOCIO-CULTURAL DYNAMICS AND ETHNOLINGUISTIC VITALITY OF SEMBIRAN BALINESE.pdf
 Kay and Kempton_1984_What Is the Sapir-Whorf Hypothesis.pdf
@@ -158,6 +160,7 @@ Moens and de Touche_1940_Srīvijaya, Yāva En Katāha.pdf
 Matthews_2006_Morphology.pdf
 Vittrant and Watkins_2019_Guidelines for the description of Mainland Southeast Asian languages.pdf
 Palmer et al._2022_Frames of spatial reference in five Australian languages.pdf
+Agustin et al._2026_Global Englishes in Indonesia a scoping review of empirical articles published in SINTA-indexed jou.pdf
 Lovestrand_2021_Serial Verb Constructions.pdf
 Kaufman_2017_Lexical Category and Alignment in Austronesian.pdf
 van Trijp_2024_Nostalgia for the future of Construction Grammar..pdf
@@ -245,6 +248,7 @@ Kiyomi_1995_A new approach to reduplication a semantic study of noun and verb re
 Gumperz and Levinson_1991_Rethinking Linguistic Relativity.pdf
 England_2018_Training Language Activists to Support Endangered Languages.pdf
 Himmelmann_2009_Language Endangerment Scenarios A Case Study from Northern Central Sulawesi.pdf
+Newman_2026_Pizza in The Australian Women’s Weekly (1933–1982) creating referential and cultural meanings throu.pdf
 Shapero_2017_Does Environmental Experience Shape Spatial Cognition Frames of Reference Among Ancash Quechua Spea.pdf
 Theijssen_Variable Selection in Logistic Regression The British English Dative Alternation.pdf
 Blust_1993_Central and Central-Eastern Malayo-Polynesian.pdf
@@ -277,7 +281,9 @@ Bentley_1986_Indigenous States of Southeast Asia.pdf
 Hauser-Schäublin_2005_Temple and King Resource Management, Rituals and Redistribution in Early Bali.pdf
 Everett_2023_Turn to Your West.pdf
 Sujaya et al._2021_Agents in Balinese passive construction.pdf
+Aryawibawa et al._2023_Balinese Spatial System Evidence From Bengkala Village Sign Language.pdf
 Legate_Subjects in Acehnese and the Nature of the Passive  Language.pdf
+Gensler_2003_Object ordering in verbs marking two pronominal objects Non-explanation and explanation.pdf
 Rau and Yang_2009_Digital Transmission of Language and Culture Rethinking Pedagogical Models for E‐Learning.pdf
 Camp et al._2018_Writing Grammars of Endangered Languages.pdf
 Briggs_1951_The Ancient Khmer Empire.pdf
@@ -288,11 +294,13 @@ Lee and Van Way_2018_Assessing Degrees of Language Endangerment.pdf
 Walker_2020_Cultural phylogenetics in lowland South America.pdf
 Schmidtke et al._2022_Morphological knowledge in English learner university students is sensitive to language statistics.pdf
 Douglas_1992_The multi-dimensional approach to linguistic analyses of genre variation An overview of methodology.pdf
+Lin and Chen_2020_Multimodality I Speech, prosody and gestures.pdf
 Voorhoeve_Languages of Irian Jaya Checklist. Preliminary classification, language maps, wordlists.pdf
 Klamer et al._2020_Patterns of dispersal and diversification in Island Southeast Asia and Oceania.pdf
 Arka_2024_The dynamic grammar and socio-pragmatics of prominence in Balinese.pdf
 Briggs_1949_The Appearance and Historical Usage of the Terms Tai, Thai, Siamese and Lao.pdf
 Ottino_1994_Origin Myths, Hierarchical Order, and the Negotiation of Status in the Balinese Village of Trunyan.pdf
+Meijs_2021_Corpus Linguistics and Beyond Proceedings of the Seventh International Conference on English Langua.pdf
 Lu and Szeto_2023_Polyfunctionality of ‘Give’ in Hui Varieties of Chinese A Typological and Areal Perspective.pdf
 Matisoff_1980_Stars, Moon, and Spirits.pdf
 Van Der Auwera et al._2009_Acquisitive modals.pdf
@@ -342,6 +350,7 @@ Reuter_2021_The House of Our Ancestors.pdf
 Dyah Maharani_2021_Keragaman Wujud Bangunan Tinggal Desa-desa Bali Aga dari Zaman Bali Kuno.pdf
 Briggs_1950_The Khmer Empire and the Malay Peninsula.pdf
 Yudantini_2022_BALI AGA VILLAGES DOCUMENTATION IN BANGLI REGENCY AS ARCHITECTURAL CONSERVATION AND CULTURAL HERITAG.pdf
+Matsumoto_2025_Chapter 1 Introduction NINJAL project on motion event descriptions across languages (MEDAL).pdf
 Savitri et al._2024_Applying Chi-Square Test In Measuring The Significance Of The Occurrence Of French Synonym In Corpus.pdf
 Zustiyantoro et al._2025_Revitalising an endangered language through grassroots traditional arts communities the case of Jav.pdf
 Delaby and Colleman_2026_Constructional contamination between two constructions with krijgen ‘to get’ in Dutch Nation.pdf
@@ -357,6 +366,7 @@ Udayana University, Denpasar, Indonesia et al._2024_Language Maintenance Bali Ag
 Turin et al._2013_Oral Literature in the Digital Age Archiving Orality and Connecting with Communities.pdf
 Blust_1983_More on the Position of the Languages of Eastern Indonesia.pdf
 Darmasetiyawan and Ambridge_2022_Syntactic Representations Contain Semantic Information Evidence From Balinese Passives.pdf
+Warren_2012_Finding words.pdf
 Iwasaki_2018_Passives.pdf
 Levinson et al._2002_Returning the tables language affects spatial reasoning.pdf
 Mayuko_2015_â€œBENTUK HORMATâ€ DIALEK BAHASA BALI AGA DALAM KONTEKS AGAMA.pdf
@@ -415,9 +425,11 @@ Rajeg et al. - 2024 - Enggano-German dictionary turns digital Challenge.pdf
 Jenset and McGillivray_2019_Data from ‘The Dative Alternation Revisited Fresh Insights from Contemporary British Spoken Data’.pdf
 Miksic_2017_Historical Archaeology in Southeast Asia.pdf
 Blust_1979_Proto-Western Malayo-Polynesian Vocatives.pdf
+Warren_2012_Building words.pdf
 Blust_1980_Austronesian Etymologies.pdf
 Epps_2020_Amazonian linguistic diversity and its sociocultural correlates.pdf
 Schnell and Schiborr_2022_Crosslinguistic Corpus Studies in Linguistic Typology.pdf
+Charteris-Black_2004_Metaphor in Financial Reporting.pdf
 Koptjevskaja-Tamm et al._2007_Typological approaches to lexical semantics.pdf
 Ackerman et al._Symmetrical objects in Moro Challenges and solutions1  Journal of Linguistics.pdf
 Widiastuti et al._2025_The Ecolexicons of Cepuk Cloth.pdf

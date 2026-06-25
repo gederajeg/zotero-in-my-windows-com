@@ -8,6 +8,7 @@ Adelaar and Himmelmann_2004_Nias Lea Brown.pdf
 Adelaar_2000_Malay A Short History.pdf
 Adelaar_2009_Language Documentation in the West Austronesian World and Vanuatu An Overview.pdf
 Agusintadewi_2017_Pola Spasial Permukiman Tradisional Bali Aga di Desa Sekardadi, Kintamani  RUAS.pdf
+Agustin et al._2026_Global Englishes in Indonesia a scoping review of empirical articles published in SINTA-indexed jou.pdf
 Alexiadou and Schäfer_2020_The Voice Domain in Germanic.pdf
 Alnoza_2024_ORANG KHMER DI JAWA PADA MASA HINDU-BUDDHA (ABAD KE-9--15 MASEHI) EKSISTENSINYA DIPANDANG DARI TEOR.pdf
 Alsina_1993_Predicate composition A theory of syntactic function alternations. (Volumes I and II).pdf
@@ -23,6 +24,7 @@ Arka_2009_Maintaining Vera in Rongga Struggles over Culture, Tradition, and Lang
 Arka_2024_The dynamic grammar and socio-pragmatics of prominence in Balinese.pdf
 Arnold_1998_Reference form and discourse patterns.pdf
 Artemis Alexiadou_2012_Noncanonical passives revisited Parameters of nonactive Voice.pdf
+Aryawibawa et al._2023_Balinese Spatial System Evidence From Bengkala Village Sign Language.pdf
 Austin_2008_Data and language documentation.pdf
 Austin_2012_Tense, aspect, mood and evidentiality in Sasak, eastern Indonesia.pdf
 Austin_Verbs, valence and voice in Balinese, Sasak and Sumbawan.pdf
@@ -82,6 +84,7 @@ Carroll et al._2022_Using Indigenous Standards to Implement the CARE Principles 
 Casad and Langacker_1985_'Inside' and 'Outside' in Cora Grammar.pdf
 Casad_1993_“Locations”, “paths” and the Cora verb.pdf
 Chappell and Lü_2022_A semantic typology of location, existence, possession and copular verbs areal patterns of polysemy.pdf
+Charteris-Black_2004_Metaphor in Financial Reporting.pdf
 Chelliah_2018_The Design and Implementation of Documentation Projects for Spoken Languages.pdf
 Cole and Hermon_2005_Subject And Non-subject Relativization in Indonesian.pdf
 Conners_2008_Tengger Javanese.pdf
@@ -148,6 +151,7 @@ Garvin_1970_Method and Theory in Linguistics.pdf
 Geertz_1959_Form and Variation in Balinese Village Structure.pdf
 Geertz_1964_Tihingan A Balinese Village.pdf
 Genetti_2018_Teaching Linguists to Document Endangered Languages.pdf
+Gensler_2003_Object ordering in verbs marking two pronominal objects Non-explanation and explanation.pdf
 Georgakopoulos and Polis_2018_The semantic map model State of the art and future avenues for linguistic research.pdf
 Gerini_1905_The Nagarakretagama List of Countries on the Indo-Chinese Mainland (Circâ 1380 A.D.).pdf
 Good_2018_Ethics in Language Documentation and Revitalization.pdf
@@ -246,6 +250,7 @@ Levinson_1997_Language and Cognition The Cognitive Consequences of Spatial Descr
 Levinson_1998_Studying Spatial Conceptualization across Cultures Anthropology and Cognitive Science.pdf
 Levinson_2000_Yélî Dnye and the Theory of Basic Color Terms.pdf
 Levinson_Journal of Linguistic Anthropology  AAA Journal  Wiley Online Library.pdf
+Lin and Chen_2020_Multimodality I Speech, prosody and gestures.pdf
 Linehan_1949_The Earliest Word-lists and Dictionaries of the Malay Language.pdf
 Linjun and Yingxin_2024_Typological shift of Mandarin Chinese in terms of motion verb lexicalization pattern.pdf
 List_Productive Signs Towards a Computer-Assisted Analysis of Evolutionary, Typological, and Cognitive D.pdf
@@ -265,6 +270,7 @@ Martin_2016_The university library and digital scholarship a review of the liter
 Martínez-Mesa et al._2016_Sampling how to select participants in my research study.pdf
 Matisoff_1980_Stars, Moon, and Spirits.pdf
 Matras et al._2006_Linguistic Areas.pdf
+Matsumoto_2025_Chapter 1 Introduction NINJAL project on motion event descriptions across languages (MEDAL).pdf
 Matthews_2006_Morphology.pdf
 Mattiola_2019_Typology of Pluractional Constructions in the Languages of the World.pdf
 Mattiola_2026_For a Discourse-Sensitive Typology Theoretical and methodological aspects.pdf
@@ -274,6 +280,7 @@ McCarty_2018_Indigenous Language Rights—Miner’s Canary or Mariner’s Tern.p
 McClatchey_2018_Traditional and Local Knowledge Systems as Language Legacies Critical for Conservation.pdf
 McGregor_2013_Optionality in grammar and language use.pdf
 McPhillips et al._2015_YesWorkflow A User-Oriented, Language-Independent Tool for Recovering Workflow Information from Scr.pdf
+Meijs_2021_Corpus Linguistics and Beyond Proceedings of the Seventh International Conference on English Langua.pdf
 Mertz_2023_Regular expression puzzles and AI coding assistants 24 puzzles solved by the author, with and witho.pdf
 Meyer_2014_Corpus-based and corpus-driven approaches to linguistic analysis one and the same.pdf
 Meyer_2020_Numeral Classifiers in Ojibwe.pdf
@@ -296,6 +303,7 @@ Nagaya_2011_The Lamaholot Language of Eastern Indonesia.pdf
 Nalborczyk et al._2019_An Introduction to Bayesian Multilevel Models Using brms A Case Study of Gender Effects on Vowel Va.pdf
 Narrog_2017_Typology and Grammaticalization.pdf
 Nerbonne and Kretzschmar_2013_Dialectometry++.pdf
+Newman_2026_Pizza in The Australian Women’s Weekly (1933–1982) creating referential and cultural meanings throu.pdf
 Nghia_1976_Some Characteristics of the Khmer-Mon Languages.pdf
 Nichols_2020_Dispersal patterns shape areal typology.pdf
 Nikolaeva_2020_Constructional analogy and reanalysis in possessive applicatives.pdf
@@ -327,6 +335,7 @@ Plag et al._Morphological productivity across speech and writing  English Langua
 Polinsky_1996_A non-syntactic account of some asymmetries in the double object construction.pdf
 Poser_1983_REPLY TO VERHAAR.pdf
 Pou and Jenner_1974_Proto-Indonesian and Mon-Khmer.pdf
+Prasithrathsint_2004_The adversative passive markers as a prominent areal feature of Southeast Asian languages.pdf
 Pratiwi et al._2020_SOCIO-CULTURAL DYNAMICS AND ETHNOLINGUISTIC VITALITY OF SEMBIRAN BALINESE.pdf
 Primus_2010_The relative order of recipient and patient in the languages of Europe ..pdf
 Putra and Rajeg_2024_A Preliminary Experimental Study on Inherent Association of Verbs to Specific Nouns.pdf
@@ -424,6 +433,9 @@ Vittrant and Watkins_2019_Guidelines for the description of Mainland Southeast A
 Voorhoeve_Languages of Irian Jaya Checklist. Preliminary classification, language maps, wordlists.pdf
 Vuković_2021_Representing variation in a spoken corpus of an endangered dialect the case of Torlak.pdf
 Walker_2020_Cultural phylogenetics in lowland South America.pdf
+Warren_2012_Building words.pdf
+Warren_2012_Finding words.pdf
+Warren_2012_Planning utterances.pdf
 Warwick et al._2012_Introduction.pdf
 Watts et al._Pulotu Database of Austronesian Supernatural Beliefs and Practices.pdf
 Weller_2018_The Digital Scholar Revisited.pdf
