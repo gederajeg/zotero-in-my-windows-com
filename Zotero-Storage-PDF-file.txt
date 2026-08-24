@@ -22,6 +22,7 @@ Levinson_2000_Yélî Dnye and the Theory of Basic Color Terms.pdf
 Baayen and Neijt_1997_Productivity in context a case study of a Dutch suffix.pdf
 Harmon and Loh_2018_Congruence Between Species and Language Diversity.pdf
 Linehan_1949_The Earliest Word-lists and Dictionaries of the Malay Language.pdf
+Skrzypek_2025_Early stages of periphrastic passive formation in Old Swedish.pdf
 Coon et al._2017_Introduction.pdf
 Corver et al._2019_Introduction The compositionality and syntactic flexibility of verbal idioms.pdf
 Cahill_2018_Orthography Design and Implementation for Endangered Languages.pdf
@@ -191,6 +192,7 @@ Islam et al._2022_Climate change versus livelihoods, heritage and ecosystems in 
 Multi-CAST Multilingual corpus of annotated spoken texts.pdf
 Fogg_2015_The standardisation of the Indonesian language and its consequences for Islamic communities.pdf
 Fox_2009_Precedence in perspective.pdf
+Cobbinah and Lüpke_2012_Not cut to fit - zero-coded passives in African languages.pdf
 Koerner_1992_The Sapir-Whorf Hypothesis A Preliminary History and a Bibliographical Essay.pdf
 Wurm_Language endangerment in the insular Greater Pacific area, and the New Guinea area in particular.pdf
 Blust_1989_Austronesian Etymologies IV.pdf
@@ -203,6 +205,7 @@ Gerini_1905_The Nagarakretagama List of Countries on the Indo-Chinese Mainland (
 Widiastuti -_2018_Ketahanan Budaya Masyarakat Bali Aga dalam Menciptakan Desa Wisata yang Berkelanjutan.pdf
 Goodall and Revire_2021_East and West — New Inscriptions from Funan, Zhenla and Dvāravatī.pdf
 Senft_1991_Network Models to Describe the Kilivila Classifier System.pdf
+Goatly and Эндрю_2017_Metaphor and Grammar in the Poetic Representation of Nature.pdf
 Bril_2004_Complex nuclei in Oceanic languages Contribution to an areal typology.pdf
 Belew and Simpson_2018_The Status of the World’s Endangered Languages.pdf
 Udayana et al._2025_The (non)canonical status of the ka- passive in Balinese.pdf
@@ -316,6 +319,7 @@ C. E. Engels and Kulczycki_2022_Introduction Research assessment in the social s
 Mattiola_2019_Typology of Pluractional Constructions in the Languages of the World.pdf
 Palmer_Measuring productivity diachronically nominal suffixes in English letters, 1400–16001  English Lan.pdf
 Dryer_2007_Clause types.pdf
+Rajeg_2026_THE DIGITISED HOLLE LIST PROJECT BUILDING A DATABASE FROM LEGACY MATERIALS FOR CONSERVING INDIGENOU.pdf
 Barbour_2009_Neverver A Study of Language Vitality and Community Initiatives.pdf
 Mattiola_2026_For a Discourse-Sensitive Typology Theoretical and methodological aspects.pdf
 Chappell and Lü_2022_A semantic typology of location, existence, possession and copular verbs areal patterns of polysemy.pdf
@@ -433,6 +437,7 @@ Charteris-Black_2004_Metaphor in Financial Reporting.pdf
 Koptjevskaja-Tamm et al._2007_Typological approaches to lexical semantics.pdf
 Ackerman et al._Symmetrical objects in Moro Challenges and solutions1  Journal of Linguistics.pdf
 Widiastuti et al._2025_The Ecolexicons of Cepuk Cloth.pdf
+Syea_2024_Absence of syntactic passive in creoles Evidence from French-based Mauritian Creole.pdf
 Luna_2009_The semi-formulaic nature of Balinese sociopolitical discourse.pdf
 Semin et al._2013_Interfacing Body, Mind, the Physical, and the Social World Socially Situated Cognition.pdf
 Yap and Iwasaki_2003_From causatives to passives A passage in some East and Southeast Asian languages.pdf

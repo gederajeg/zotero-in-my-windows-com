@@ -22,6 +22,7 @@
 /c/Users/GRajeg/Zotero/storage/3ZUJWQSZ/Baayen and Neijt_1997_Productivity in context a case study of a Dutch suffix.pdf
 /c/Users/GRajeg/Zotero/storage/4468BTN7/Harmon and Loh_2018_Congruence Between Species and Language Diversity.pdf
 /c/Users/GRajeg/Zotero/storage/46CS7DBR/Linehan_1949_The Earliest Word-lists and Dictionaries of the Malay Language.pdf
+/c/Users/GRajeg/Zotero/storage/46N288RJ/Skrzypek_2025_Early stages of periphrastic passive formation in Old Swedish.pdf
 /c/Users/GRajeg/Zotero/storage/4CGA4NC2/Coon et al._2017_Introduction.pdf
 /c/Users/GRajeg/Zotero/storage/4H79RE2L/Corver et al._2019_Introduction The compositionality and syntactic flexibility of verbal idioms.pdf
 /c/Users/GRajeg/Zotero/storage/4HXULXIY/Cahill_2018_Orthography Design and Implementation for Endangered Languages.pdf
@@ -191,6 +192,7 @@
 /c/Users/GRajeg/Zotero/storage/FYEDSSME/Multi-CAST Multilingual corpus of annotated spoken texts.pdf
 /c/Users/GRajeg/Zotero/storage/G2YGLUKV/Fogg_2015_The standardisation of the Indonesian language and its consequences for Islamic communities.pdf
 /c/Users/GRajeg/Zotero/storage/G64X7Y3V/Fox_2009_Precedence in perspective.pdf
+/c/Users/GRajeg/Zotero/storage/G8CAXMI7/Cobbinah and Lüpke_2012_Not cut to fit - zero-coded passives in African languages.pdf
 /c/Users/GRajeg/Zotero/storage/GCQX8TKW/Koerner_1992_The Sapir-Whorf Hypothesis A Preliminary History and a Bibliographical Essay.pdf
 /c/Users/GRajeg/Zotero/storage/GE9F3FSY/Wurm_Language endangerment in the insular Greater Pacific area, and the New Guinea area in particular.pdf
 /c/Users/GRajeg/Zotero/storage/GLGFUQQG/Blust_1989_Austronesian Etymologies IV.pdf
@@ -203,6 +205,7 @@
 /c/Users/GRajeg/Zotero/storage/HBDYP82K/Widiastuti -_2018_Ketahanan Budaya Masyarakat Bali Aga dalam Menciptakan Desa Wisata yang Berkelanjutan.pdf
 /c/Users/GRajeg/Zotero/storage/HDZUSZ8E/Goodall and Revire_2021_East and West — New Inscriptions from Funan, Zhenla and Dvāravatī.pdf
 /c/Users/GRajeg/Zotero/storage/HIF6TJ9A/Senft_1991_Network Models to Describe the Kilivila Classifier System.pdf
+/c/Users/GRajeg/Zotero/storage/HKCWUNEA/Goatly and Эндрю_2017_Metaphor and Grammar in the Poetic Representation of Nature.pdf
 /c/Users/GRajeg/Zotero/storage/HLNV4652/Bril_2004_Complex nuclei in Oceanic languages Contribution to an areal typology.pdf
 /c/Users/GRajeg/Zotero/storage/HSBAK48R/Belew and Simpson_2018_The Status of the World’s Endangered Languages.pdf
 /c/Users/GRajeg/Zotero/storage/HSTTUNC3/Udayana et al._2025_The (non)canonical status of the ka- passive in Balinese.pdf
@@ -316,6 +319,7 @@
 /c/Users/GRajeg/Zotero/storage/QQNMHIPC/Mattiola_2019_Typology of Pluractional Constructions in the Languages of the World.pdf
 /c/Users/GRajeg/Zotero/storage/QQPL88ZJ/Palmer_Measuring productivity diachronically nominal suffixes in English letters, 1400–16001  English Lan.pdf
 /c/Users/GRajeg/Zotero/storage/QTC4GBQA/Dryer_2007_Clause types.pdf
+/c/Users/GRajeg/Zotero/storage/QV2KA7AM/Rajeg_2026_THE DIGITISED HOLLE LIST PROJECT BUILDING A DATABASE FROM LEGACY MATERIALS FOR CONSERVING INDIGENOU.pdf
 /c/Users/GRajeg/Zotero/storage/QYSL55Y2/Barbour_2009_Neverver A Study of Language Vitality and Community Initiatives.pdf
 /c/Users/GRajeg/Zotero/storage/QZ4Z24MN/Mattiola_2026_For a Discourse-Sensitive Typology Theoretical and methodological aspects.pdf
 /c/Users/GRajeg/Zotero/storage/QZX2SJEY/Chappell and Lü_2022_A semantic typology of location, existence, possession and copular verbs areal patterns of polysemy.pdf
@@ -433,6 +437,7 @@
 /c/Users/GRajeg/Zotero/storage/YEPNVQS5/Koptjevskaja-Tamm et al._2007_Typological approaches to lexical semantics.pdf
 /c/Users/GRajeg/Zotero/storage/YFL4BNGQ/Ackerman et al._Symmetrical objects in Moro Challenges and solutions1  Journal of Linguistics.pdf
 /c/Users/GRajeg/Zotero/storage/YJIW27KJ/Widiastuti et al._2025_The Ecolexicons of Cepuk Cloth.pdf
+/c/Users/GRajeg/Zotero/storage/YLG7P85V/Syea_2024_Absence of syntactic passive in creoles Evidence from French-based Mauritian Creole.pdf
 /c/Users/GRajeg/Zotero/storage/YNXSUXNC/Luna_2009_The semi-formulaic nature of Balinese sociopolitical discourse.pdf
 /c/Users/GRajeg/Zotero/storage/YPHJUFL9/Semin et al._2013_Interfacing Body, Mind, the Physical, and the Social World Socially Situated Cognition.pdf
 /c/Users/GRajeg/Zotero/storage/YRG2E5UR/Yap and Iwasaki_2003_From causatives to passives A passage in some East and Southeast Asian languages.pdf
