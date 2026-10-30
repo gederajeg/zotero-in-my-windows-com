@@ -144,6 +144,7 @@ Fox_2006_Postscript — Spatial Categories in Social Context Tracing a Comparati
 Fox_2009_Precedence in perspective.pdf
 François_2004_Chains of freedom Constraints and creativity in the macro-verb strategies of Mwotlap.pdf
 Frith and Frith_Social Cognition in Humans.pdf
+Fukumura_2026_Mapping Concepts Onto Linguistic Structure The Case of Animacy.pdf
 Fukushima_2026_10 Being a Regular Verb and a Manner Adverbial Simultaneously.pdf
 Gaby and Shoulson_2023_Pronouns.pdf
 Galiotou et al._2018_Preservation and Management of Greek Dialectal Data.pdf
@@ -187,6 +188,7 @@ Headley_1976_Some Considerations on the Classification of Khmer.pdf
 Headley_1976_Some Sources of Chamic Vocabulary.pdf
 Heath and McPherson_2009_Cognitive Set and Lexicalization Strategy in Dogon Action Verbs.pdf
 Hemmings_2015_Kelabit Voice Philippine-Type, Indonesian-Type or Something a Bit Different.pdf
+Hemmings_2015_Kelabit Voice.pdf
 Heng_2016_Transition to the Pre-Angkorian period (300–500 CE) Thala Borivat and a regional perspective.pdf
 Hill and Mannheim_1992_Language and World View.pdf
 Hilpert et al._2021_A multivariate approach to English Clippings.pdf
@@ -240,6 +242,7 @@ Kullavanijaya and Bisang_2007_Another Look at Aspect in Thai.pdf
 Kusumaningrum et al._2024_The Use of Bali Aga Dialect in the Work Domain.pdf
 Kwary and Jalaluddin_2015_The lexicography of IndonesianMalay.pdf
 Kwary_2017_Indonesian lexicography in the Internet era.pdf
+Ledgeway_2021_Passive Periphrases in the Romance Languages.pdf
 Lee and Van Way_2018_Assessing Degrees of Language Endangerment.pdf
 Lee_1974_Southeast Asian Areal Features in Austronesian Strata of the Chamic Languages.pdf
 Legate_2021_Noncanonical Passives A Typology of Voices in an Impoverished Universal Grammar.pdf
@@ -263,6 +266,7 @@ Lucy_1997_Linguistic Relativity.pdf
 Luna_2009_The semi-formulaic nature of Balinese sociopolitical discourse.pdf
 Luraghi and Roma_2021_Valency over Time Diachronic Perspectives on Valency Patterns and Valency Orientation.pdf
 Maaten and Hinton_Visualizing Data using t-SNE.pdf
+MacKay and Trechsel_2008_Symmetrical Objects in Misantla Totonac.pdf
 MacRae_2006_Banua or Negara The Culture of Land in South Bali.pdf
 Mackenzie and Davis_2018_Why Lexical Loss and Culture Death Endanger Science.pdf
 Maffi_2018_Sustaining Biocultural Diversity.pdf
@@ -312,6 +316,7 @@ Nikolaeva_2020_Constructional analogy and reanalysis in possessive applicatives.
 Nomoto and Soh_2019_Malay.pdf
 Noorduyn_1988_Holle, Van Der Tuuk, and Old Sundanese Epigraphy The Cikajang and Kawali Inscriptions.pdf
 Norcliffe and Majid - 2024 - Verbs of perception A quantitative typological st.pdf
+Norcliffe and Roque_2026_The Grammar of Perception A Case Study of Guambiano (Namtrik) and Duna.pdf
 Nuyen_1992_The Role of Rhetorical Devices in Postmodernist Discourse.pdf
 Næss and Boerger_2008_Reefs--Santa Cruz as Oceanic Evidence from the Verb Complex..pdf
 Næss,_2012_Cutting and breaking in Äiwoo Event integration and the complexity of lexical expressions.pdf
@@ -463,6 +468,7 @@ Yap and Iwasaki_2003_From causatives to passives A passage in some East and Sout
 Yasa et al._2024_Social Capital-Based Historical Tourism Development Model in Bali Aga Areas Sidetapa, Cempaga, Tiga.pdf
 Young_2009_First Language Education in Multilingual Contexts in the Philippines.pdf
 Yudantini_2022_BALI AGA VILLAGES DOCUMENTATION IN BANGLI REGENCY AS ARCHITECTURAL CONSERVATION AND CULTURAL HERITAG.pdf
+Zehentner et al._2023_Ditransitive constructions in Germanic languages New avenues and new challenges.pdf
 Zhang et al._2025_Mandarin Chinese ditransitive construction comprehension involves simulating transfer directions ev.pdf
 Zustiyantoro et al._2025_Revitalising an endangered language through grassroots traditional arts communities the case of Jav.pdf
 de Marneffe et al._2012_A statistical model of the grammatical choices in child production of dative sentences.pdf

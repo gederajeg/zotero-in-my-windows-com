@@ -109,6 +109,7 @@ Bárány_2024_Case and agreement alignment in ditransitive constructions A typol
 Kimoto et al._2024_Syntactic embedding or parataxis  Corpus-based typology of complementation in language use.pdf
 Raff_2013_The San Francisco Declaration on Research Assessment.pdf
 Hudson et al._2023_Indigenous Peoples' Rights in Data a contribution toward Indigenous Research Sovereignty.pdf
+Ledgeway_2021_Passive Periphrases in the Romance Languages.pdf
 Engelenhoven_2021_Leti, a Language of Southwest Maluku.pdf
 Meyer_2014_Corpus-based and corpus-driven approaches to linguistic analysis one and the same.pdf
 Zhang et al._2025_Mandarin Chinese ditransitive construction comprehension involves simulating transfer directions ev.pdf
@@ -154,7 +155,7 @@ Lehmann_2024_Ten Lectures on Grammaticalization.pdf
 Reuter_2009_Origin and Precedence The construction and distribution of status in the highlands of Bali.pdf
 Rosch_1978_Principles of Categorization.pdf
 Enfield_2001_On Genetic and Areal Linguistics in Mainland South-East Asia Parallel Polyfunctionality of ‘acquire.pdf
-Hemmings_2015_Kelabit Voice Philippine-Type, Indonesian-Type or Something a Bit Different.pdf
+Hemmings_2015_Kelabit Voice.pdf
 Sommerlot_2020_On the Syntax of West Kalimantan Asymmetries and A'-Movement in Malayic and Land Dayak Languages.pdf
 Moyse‐Faurie_2017_Reflexives Markers in Oceanic Languages.pdf
 Moens and de Touche_1940_Srīvijaya, Yāva En Katāha.pdf
@@ -180,6 +181,7 @@ Rajeg et al._The data science behind the curation of the Holle List A case study
 Annotations using GRAID Grammatical Relations and Animacy in Discourse (manual).pdf
 Rothstein_2016_Aspect.pdf
 Hoffmann_2020_Construction grammar and creativity Evolution, psychology, and cognitive science.pdf
+MacKay and Trechsel_2008_Symmetrical Objects in Misantla Totonac.pdf
 Santhyasa et al._The Geometric Construction of Traditional Settlement Space in the Ancient Village of Tenganan Dauh T.pdf
 Berez-Kroeker et al._2022_The Open Handbook of Linguistic Data Management.pdf
 Skrzypek_2024_Variation and change in the Swedish periphrastic passive a constructional approach.pdf
@@ -237,6 +239,7 @@ Peang-Meth_1991_Understanding the Khmer Sociological-Cultural Observations.pdf
 McClatchey_2018_Traditional and Local Knowledge Systems as Language Legacies Critical for Conservation.pdf
 Regier et al._2013_Inferring semantic maps.pdf
 Djenar et al._2018_Style and Intersubjectivity in Youth Interaction.pdf
+Fukumura_2026_Mapping Concepts Onto Linguistic Structure The Case of Animacy.pdf
 Bardají et al._2025_Why agent prominence persists even under challenging conditions.pdf
 Danesi_2010_The forms and functions of slang.pdf
 Febrina et al_2024_Indonesian Women in KBBI.pdf
@@ -279,7 +282,6 @@ Sujaya and Winaya_2023_Aspectual Demension Of Balinese Modal Verbs Syntactic and
 Biggs_1948_The Mba Dialects, Western Viti Levu.pdf
 Hans Broekhuis and Leonie Cornips_2012_The verb krijgen ‘to get’ as an undative verb.pdf
 Tomasello_2014_The New Psychology of Language Cognitive and Functional Approaches to Language Structure, Volume I.pdf
-Levinson_2000_Yélî Dnye and the Theory of Basic Color Terms.pdf
 Bentley_1986_Indigenous States of Southeast Asia.pdf
 Hauser-Schäublin_2005_Temple and King Resource Management, Rituals and Redistribution in Early Bali.pdf
 Everett_2023_Turn to Your West.pdf
@@ -393,6 +395,7 @@ Martin_2016_The university library and digital scholarship a review of the liter
 Putra and Rajeg_2024_A Preliminary Experimental Study on Inherent Association of Verbs to Specific Nouns.pdf
 Moro and Fricke_2020_Contact-Induced Change in Alorese Give-Constructions.pdf
 Nuyen_1992_The Role of Rhetorical Devices in Postmodernist Discourse.pdf
+Zehentner et al._2023_Ditransitive constructions in Germanic languages New avenues and new challenges.pdf
 Warwick et al._2012_Introduction.pdf
 Schütz_1963_Sources for the Study of Fijian Dialects.pdf
 Risman et al._2018_Handbook of the Sociology of Gender.pdf
@@ -408,6 +411,7 @@ Linjun and Yingxin_2024_Typological shift of Mandarin Chinese in terms of motion
 Kashima and Lan_2013_Communication and Language Use in Social Cognition.pdf
 Grant_2017_The Western Micronesian Sprachbund.pdf
 Wright_2018_Planning Minority Language Maintenance Challenges and Limitations.pdf
+Norcliffe and Roque_2026_The Grammar of Perception A Case Study of Guambiano (Namtrik) and Duna.pdf
 Theijssen_2012_Making choices modelling the English dative alternation.pdf
 Trudgill_2020_Sociolinguistic typology and the uniformitarian hypothesis.pdf
 Reuter_2006_Ritual Domains and Communal Land in the Highlands of Bali.pdf
