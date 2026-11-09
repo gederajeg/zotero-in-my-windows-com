@@ -1,11 +1,13 @@
 # STEP 4
-## get the full file path of the PDF in the zotero storage and save it into "Zotero-Storage-PDF-path.txt"
+## get the full file path of the PDF in the zotero storage and ... 
+## ... save it into "Zotero-Storage-PDF-path.txt"
 find /c/Users/GRajeg/Zotero -type f -name "*.pdf" > /c/Users/GRajeg/OneDrive\ -\ Nexus365/Documents/zotero-in-my-windows-com/Zotero-Storage-PDF-path.txt
 
 ## count the number of lines in a text file
 wc -l Zotero-Storage-PDF-path.txt 
 
-## compare (i) the (potentially newly added) PDFs in the MASTER list with the (ii) current PDFs in flash drive with from the last update
+## compare (i) the (potentially newly added) PDFs in the MASTER list with ... 
+## ... the (ii) current PDFs in flash drive with from the last update
 comm -3 <(sort Zotero-Storage-PDF-file-MASTER.txt) <(sort zotero-pdf-in-flash-drive.txt)
 
 ## get the file path of the newly added PDFs in the MASTER in the laptop/computer (but not yet available in the flash drive)
